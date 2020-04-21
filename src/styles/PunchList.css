@@ -1,0 +1,16 @@
+.punchList{
+    margin: 0px !important;
+}
+
+.status{
+    text-transform: uppercase;
+}
+
+.open{
+    color: #2ecc40;
+}
+
+.closed{
+    color: #db2828;
+}
+

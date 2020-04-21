@@ -1,0 +1,11 @@
+.copyright { 
+  padding-top: 2em;
+  padding-bottom: 2em;
+  background-color: #1b1c1d;
+  color: #fff;
+}
+
+.mapStyle{
+  width: 100%;
+  height: 100%;
+}

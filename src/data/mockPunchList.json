@@ -1,0 +1,52 @@
+{
+
+"list": [{
+        "id": 1,
+        "discipline": "Structual",
+        "status": "open",
+        "description": "Lorem ipsum dolor, sit amet",
+        "assignee": "Danali Sanchez",
+        "coordinates": [32.783585 , -96.805077]
+    },
+    {
+        "id": 2,
+        "discipline": "Electrical",
+        "status": "closed",
+        "description": "Lorem ipsum dolor, sit amet",
+        "assignee": "Lucia Romo",
+        "coordinates": [32.7798 , -96.8085]
+    },
+    {
+        "id": 3,
+        "discipline": "Plumbing",
+        "status": "open",
+        "description": "Lorem ipsum dolor, sit amet",
+        "assignee": "John Smith",
+        "coordinates": [32.785037 , -96.808250]
+    },
+    {
+        "id": 4,
+        "discipline": "Lighting",
+        "status": "open",
+        "description": "Lorem ipsum dolor, sit amet",
+        "assignee": "Doug Johnson",
+        "coordinates": [32.787560 , -96.800893]
+    },
+    {
+        "id": 5,
+        "discipline": "Cement",
+        "status": "open",
+        "description": "Lorem ipsum dolor, sit amet",
+        "assignee": "Tyler Hall",
+        "coordinates": [32.789365 , -96.801777]
+    },
+    {
+        "id": 6,
+        "discipline": "Landscape",
+        "status": "closed",
+        "description": "Lorem ipsum dolor, sit amet",
+        "assignee": "Mark Edrith",
+        "coordinates": [32.7814 , -96.7983]
+    }]
+
+}
